@@ -50,7 +50,7 @@ button{
 }
 @font-face {
     font-family: myFont;
-    src: url(TheWeddingSignature-Regular.ttf);
+    src: url(TheWeddingSignature-Regular.woff2);
 }
 #iii{
     font-family: myFont;
