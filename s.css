@@ -1,0 +1,58 @@
+body{
+    background-color: #A98A75;
+}
+.container{
+    height: 65vmin;
+    width: 50vmin;
+    position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+      background-color: #E3D4CA;
+      border-radius: 5%;
+}
+img{
+    margin: 30px;
+    margin-bottom: 0em;
+    height: 220px;
+    width: 80%;
+    border-radius: 5%;
+}
+.h{
+    
+    font-size: 22.5px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.h1{
+    color: red;
+    font-size: 22.5px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+button{
+    background-color: #1b5e52;
+    color: #BAC4CF;
+    font-size: 17px;
+    margin: 4px;
+   border: none;
+    font-weight: 400;
+    border-radius: 5%;
+    height: 27px;
+}
+.b{
+    margin-left: 73px;
+    background-color: rgb(155, 155, 155);
+    color: black;
+}
+@font-face {
+    font-family: myFont;
+    src: url(TheWeddingSignature-Regular.ttf);
+}
+#iii{
+    font-family: myFont;
+    font-size: 60px;
+}
